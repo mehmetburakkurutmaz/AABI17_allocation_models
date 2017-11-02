@@ -1,1 +1,2 @@
-# AABI17_allocation_models
+# Bayesian Nonnegative Matrix Factorization as an Allocation Model
+
